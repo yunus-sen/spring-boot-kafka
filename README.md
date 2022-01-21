@@ -2,13 +2,13 @@
 # kafka, zookeeper, kafdrop docker install:
     ->resources->docker
     
-            ```bash
+            ```console
             docker-compose -p "kafka-app" up
             ```
-```console
-foo@bar:~$ whoami
-foo
-```
+    ```console
+    foo@bar:~$ whoami
+    foo
+    ```
 
 # swagger support:
         http://localhost:8000/swagger-ui.html
