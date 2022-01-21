@@ -1,8 +1,8 @@
 # spring-boot-kafka
 # kafka, zookeeper, kafdrop docker install:
-    ->resources->docker
-
-```bash
+    ->resources->docker run:
+    
+```ABAP
 docker-compose -p "kafka-app" up
 ```
 
