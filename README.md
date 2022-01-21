@@ -1,14 +1,10 @@
 # spring-boot-kafka
 # kafka, zookeeper, kafdrop docker install:
     ->resources->docker
-    
-            ```console
-            docker-compose -p "kafka-app" up
-            ```
-    ```console
-    foo@bar:~$ whoami
-    foo
-    ```
+
+```bash
+docker-compose -p "kafka-app" up
+```
 
 # swagger support:
         http://localhost:8000/swagger-ui.html
