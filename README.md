@@ -2,7 +2,7 @@
 # kafka, zookeeper, kafdrop docker install:
     ->resources->docker run:
     
-```ABAP
+```shell
 docker-compose -p "kafka-app" up
 ```
 
